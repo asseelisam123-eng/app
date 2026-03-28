@@ -62,7 +62,7 @@ zstandard==0.23.0
 fastapi
 uvicorn[standard]
 python-dotenv
-langchain
+
 langchain-google-genai
 langgraph
 supabase
